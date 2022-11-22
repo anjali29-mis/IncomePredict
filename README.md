@@ -188,6 +188,12 @@ A DPR is a final, detailed appraisal report on the project and a blue print for 
 
  documentation of the design factors and the choices the architect has made in the design to satisfy the business and technical requirements.
 ## Authors
+#### Anjali Mishra
+- anjaliit3010@gmail.com
+- [GitHub](https://www.https://github.com/anjali29-mis/IncomePredict)
+- [Linkedin](https://www.linkedin.com/in/anjali-mishra-2a1a68186/)
+
+
 #### Lovepreet Singh
 - jsjosan3@gmail.com
 - [GitHub](https://www.https://github.com/jsjosan3)
