@@ -168,11 +168,11 @@ Application Link
   
 ## Documentation
 
-[Low Level Desgine Document](https://drive.google.com/file/d/1LKudKNWMj-kdNk0MwOPwwQZgn7pBOjmu/view?usp=sharing)
+[Low Level Design Document](https://drive.google.com/file/d/1LKudKNWMj-kdNk0MwOPwwQZgn7pBOjmu/view?usp=sharing)
 
 Low-level design (LLD) is a component-level design process that follows a step-by-step refinement process. This process can be used for designing data structures, required application architecture, source code and ultimately, performance algorithms.
 
-[High  Level Desgine Document](https://drive.google.com/file/d/1YjwqbCA1YUiulrj3auOqiV7gSi20u5ji/view?usp=sharing)
+[High  Level Design Document](https://drive.google.com/file/d/1YjwqbCA1YUiulrj3auOqiV7gSi20u5ji/view?usp=sharing)
 
 The purpose of this High-Level Design (HLD) Document is to add the important         details about this project. Through this HLD Document, I’m going to describe every small and big things about this project.
 
